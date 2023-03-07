@@ -1,0 +1,18 @@
+footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px; 
+    background: #39b54a; 
+    color: #fff;
+    width: 100%;
+       }
+       .social{
+    height: 30px;
+    justify-content: space-between;
+       }
+       .vk{
+    font-size: 25px;
+    display:inline-block;
+       }
+    
+    
