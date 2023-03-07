@@ -1,18 +1,45 @@
+body{
+   background: url(img/bacgroundimg.jpg) no-repeat;
+   background-size: cover;
+
+}
+header{
+   width: 100%;
+   display: flex;
+}
+.title{
+   text-align: center;
+margin: auto;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+}  
+.logoimg{
+   height: 100px;
+   border-radius: 31px;
+   max-height: 100px;
+}  
+.logo{
+   max-height: 100px;
+   border-style: none;
+   background-color: #fff;
+   border-radius: 31px;
+}
 footer {
-    position: fixed;
-    left: 0; bottom: 0;
-    padding: 10px; 
-    background: #39b54a; 
-    color: #fff;
-    width: 100%;
-       }
-       .social{
-    height: 30px;
-    justify-content: space-between;
-       }
-       .vk{
-    font-size: 25px;
-    display:inline-block;
-       }
+   position: fixed;
+   left: 0; bottom: 0;
+   padding: 10px; 
+   background: #1b0444; 
+   color: #fff;
+   width: 100%;
+}
+.social{
+   height: 30px;
+   justify-content: space-between;
+}
+.vk{
+   font-size: 25px;
+   display:inline-block;
+}
     
     
