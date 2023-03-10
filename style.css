@@ -68,43 +68,6 @@ menu{
 	border: none;
 }
 
-.menu-v ul li a.active, .menu-v ul li a.selected, .menu-v ul li a:hover{
-	text-decoration: none;
-	background: transparent url(img/menu-hover.png) repeat-y left top;
-	color: #fff;
-}
-
-.menu-v ul li ul{
-	position: absolute;
-	width: 130px;
-	top: 0px;
-	font-weight: normal;
-	visibility: hidden;
-	text-align: left;
-	padding: 0 15px 0 15px;
-	margin-left: 0;
-	background: #596d7f url(style/images/noize.png) repeat top center;
-	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.10);
-	-moz-box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.10);
-	box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 0.10);
-	border: 1px solid rgba(0, 0, 0, 0.30);
-	font-size: 14px;
-	line-height: 20px;
-}
-
-.menu-v ul li ul li{
-	background: transparent url(style/images/dropdown-line.png) repeat-x left top;
-}
-
-.menu-v ul li ul li:first-child {
-	background: none;
-	padding-bottom: 0;
-}
-
-.menu-v ul li ul li a{
-	padding: 12px 0;
-}
-
 footer {
    position: fixed;
    left: 0;
