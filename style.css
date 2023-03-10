@@ -25,14 +25,16 @@ line-height: 75px;
    background-color: #fff;
    border-radius: 31px;
 }
-main{
+.spesialnew{
+height: 100%;
+background-color: #0066FF;
 
 }
 menu{
    background-color: #3333ff;
    height: 300px;
    float: left;
-
+	margin-right: 10px;
 	text-align: left;
 	font-family: 'Amaranth', sans-serif;
 	font-size: 17px;
